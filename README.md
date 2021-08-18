@@ -1,3 +1,3 @@
 # Flaskblog
 
-Following Corey Schafers Flask Blog Tuturial.
+Following Corey Schafers Flask Blog Tutorial.
